@@ -25,6 +25,7 @@ while ( num <= 10 ){
     if(num % 2 == 0){
         console.log(num);
         console.log("Print even number");
+        console.log(num);
     }
     num++;
 }
